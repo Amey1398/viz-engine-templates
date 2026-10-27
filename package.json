@@ -1,0 +1,10 @@
+{
+  "name": "tech-cyber-risk-echarts-templates",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Governed ECharts visualization template modules",
+  "peerDependencies": {
+    "echarts": "^5.6.0"
+  }
+}
